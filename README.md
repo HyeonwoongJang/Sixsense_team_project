@@ -7,8 +7,8 @@
 - interest : 개발자
 
 # 팀원 김정규
-MBTI : ISTJ
-Favorite : 라면
+MBTI : ISTJ <br/>
+Favorite : 라면 <br/>
 interest : 자격증
 
 # 팀원 심명희
