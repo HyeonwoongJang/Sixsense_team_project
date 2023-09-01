@@ -13,6 +13,11 @@ interest : 자격증
 
 # 팀원 심명희
 
+- MBTI : INTP
+- Favorite : 가만히 있기
+- Interest : 운동
+
+
 # 팀원 양덕영
 MBTI : ISJP
 Favorite : 초밥
