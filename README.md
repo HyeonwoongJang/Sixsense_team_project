@@ -10,3 +10,6 @@ interest : 자격증
 # 팀원 심명희
 
 # 팀원 양덕영
+MBTI : ISJP
+Favorite : 초밥
+Interest : 포토폴리오
