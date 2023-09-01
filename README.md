@@ -5,6 +5,7 @@
 # 팀원 김정규
 MBTI : ISTJ
 Favorite : 라면
+interest : 자격증
 
 # 팀원 심명희
 
